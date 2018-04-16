@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    position: relative;
+}
+
+.window{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
+    padding:0;
+    width: 80%;
+    height: 80%;
+    background: rgb(0,0,0,0.4);
+}
+
+.startbox{
+    width: 80%;
+    height: 80%;
+    position: relative;
+    background: white;
+    margin: 7% auto;
+}
+
+.start{
+    font-size: 35px;
+    text-shadow: 1px 1px #111;
+    color: #0f0;
+    border: 2px solid #0f0;
+    cursor: pointer;
+}
+
+.start:hover{
+    transform: scale(1.1);
+}
+
+h6{
+    color: red;
+    font-weight: bold;
+}
