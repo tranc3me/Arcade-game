@@ -1,9 +1,9 @@
 # frontend-nanodegree-arcade-game
-===============================
+
 
 ## Direct link to the game
 
-*[Arcade Game](link)
+* [Arcade Game](https://tranc3me.github.io/Arcade-game/)
 
 ## Instructions
 
@@ -11,7 +11,7 @@
 
 * Collect the **two** big green gems, and reach the watter
 
-* Whatch out for the bugs
+* Watch out for the bugs
 
 * Start the game by clicking `Start` button
 
